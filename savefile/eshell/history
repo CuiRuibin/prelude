@@ -1,0 +1,15 @@
+ls
+pwd
+who
+uname -a
+clear
+uptime
+top
+clear
+ls 
+cd httpd-2.4.9/
+ls 
+ls 
+vim tags
+clear
+exit
